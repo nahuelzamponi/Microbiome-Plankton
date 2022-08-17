@@ -1,2 +1,2 @@
 # Microbiome-Plankton
-scripts and data from arXiv:2206.12384
+scripts and data to reproduce results from arXiv:2206.12384
